@@ -1,0 +1,2 @@
+ipWhiteListFilter = com.zpj.filter.AuthorityFilter
+logFilter=filter.LogFilter
